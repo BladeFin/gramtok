@@ -1,6 +1,6 @@
 {
   "name": "gramtok",
-  "homepage": "http://kibadev.xyz/gramtok",
+  "homepage": "https://gramtok.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
