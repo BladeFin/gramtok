@@ -1,6 +1,6 @@
 {
   "name": "gramtok",
-  "homepage": "https://gramtok.vercel.app/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
